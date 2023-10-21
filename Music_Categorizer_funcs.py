@@ -1,6 +1,6 @@
 import re
 import os
-import shutil
+import openpyxl
 
 folder_path = "C:\\Users\\MT1ShotYT\\Desktop\\music"
 
@@ -70,8 +70,21 @@ def path_definer(movefrom, moveto, music_name):
     
     return movefrom, moveto
     
-   
             
 def move_music_to_directory(movefrom, moveto):
     os.rename(movefrom, moveto)
     print('done')
+    
+
+def DB_Music_Name_Check(file_name, music_name):
+    theFile = openpyxl.load_workbook(file_name)
+    allSheetNames = theFile.sheetnames
+    
+    for x in allSheetNames:
+        currentSheet = theFile[x]
+        for i in range(1,346):
+            sheet = f'A{i}'
+            if currentSheet[sheet].value == music_name:
+                return True
+            else:
+                return False

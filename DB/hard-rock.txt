@@ -1,3 +1,4 @@
+Names 
 AC/DC
 Aerosmith
 Ahat
@@ -18,7 +19,6 @@ Atomic Opera
 Atomic Rooster
 Attila
 Avenged Sevenfold
-B
 Babe Ruth
 Baby Animals
 Sebastian Bach
@@ -70,7 +70,6 @@ Buster Brown
 BUX
 Glen Buxton
 B'z
-C
 Cactus
 Cheap Trick
 Cheetah
@@ -92,7 +91,6 @@ Cream
 Peter Criss
 István Cserháti
 The Cult
-D
 D-A-D
 Roger Daltrey
 Daniel Band
@@ -107,14 +105,12 @@ The Doors
 Doro
 Drowning Pool
 Duke Jupiter
-E
 Eagles of Death Metal
 Eloy
 John Entwistle
 Enuff Z'Nuff
 Europe
 Extreme
-F
 Fanny
 Finch
 The Firm
@@ -128,7 +124,6 @@ The Four Horsemen
 Free
 Frijid Pink
 Fuse
-G
 Gamma
 Geeza
 Geordie
@@ -146,7 +141,6 @@ Jack Green
 Greta Van Fleet
 The Guess Who
 Guns N' Roses
-H
 Sammy Hagar
 Hanoi Rocks
 Hard Stuff
@@ -164,10 +158,8 @@ House of Lords
 Humble Pie
 Ian Hunter
 Steve Hunter
-I
 In This Moment
 Iron Butterfly
-J
 Mick Jagger
 James Gang
 Jefferson Starship
@@ -179,7 +171,6 @@ John Paul Jones
 Journey
 Juicy Lucy
 Jutro
-K
 Kahvas Jute
 Karthago
 Kin Ping Meh
@@ -188,7 +179,6 @@ The Kinks
 Kiss
 Kracker
 Krokus
-L
 L.A. Guns
 Allen Lanier
 The Law
@@ -204,7 +194,6 @@ George Lynch
 Phil Lynott
 Lynyrd Skynyrd
 Jimmy Lyon
-M
 Madder Lake
 Majke
 Manic Street Preachers
@@ -228,7 +217,6 @@ Moxy
 Mr. Big
 Mudvayne
 My Chemical Romance
-N
 Nazareth
 Nelson
 Neon Rose
@@ -239,13 +227,11 @@ Night Ranger
 Nirvana
 Nite City
 Ted Nugent
-O
 Of Mice & Men
 Osmi putnik
 Osvajači
 Ozzy Osbourne
 The Outpatience
-P
 Jimmy Page
 Ian Paice
 A Perfect Circle
@@ -259,14 +245,12 @@ Pop Mašina
 The Power Station
 Pražský výběr
 pre)Thing
-Q
 Quartz
 Suzi Quatro
 Queen
 Queen City Kids
 Queens of the Stone Age
 Quiet Riot
-R
 Rabbit
 Rage Against the Machine
 Rainbow
@@ -288,7 +272,6 @@ Rose Tattoo
 The Runaways
 Rush
 Mitch Ryder
-S
 Saigon Kick
 Saraya
 Scorpions
@@ -319,7 +302,6 @@ Surgery
 Survivor
 The Sweet
 John Sykes
-T
 T. Rex
 Michael Tait
 Teška Industrija
@@ -338,11 +320,9 @@ Turbowolf
 Joe Lynn Turner
 Twisted Sister
 Steven Tyler
-U
 UFO
 Union
 Uriah Heep
-V
 Valient Thorr
 Van Halen
 Vandale
@@ -351,7 +331,6 @@ Vanilla Fudge
 Velvet Revolver
 Vixen
 Volbeat
-W
 Dick Wagner
 Joe Walsh
 Whitesnake
@@ -360,9 +339,7 @@ Widowmaker
 Wild Cherries 
 Winger
 Wolfmother
-Y
 The Yardbirds
 Yesterday's Children
-Z
 Zephyr
 ZZ Top
