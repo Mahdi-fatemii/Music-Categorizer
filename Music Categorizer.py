@@ -3,23 +3,10 @@ import os
 import csv
 from Music_Categorizer_funcs import *
 import openpyxl
+import eyed3
 
-theFile = openpyxl.load_workbook('hard-rock.xlsx')
-allSheetNames = theFile.sheetnames
+folder_path = "C:\\Users\\MT1ShotYT\\Desktop\\music"
+   
+music_categorizer(folder_path, db_file_name='hard-rock.xlsx', folder_name='hard-rock')
 
-print("All sheet names {} " .format(theFile.sheetnames))
 
-music_name = 'Gho'
-for x in allSheetNames:
-    print("Current sheet name is {}" .format(x))
-    currentSheet = theFile[x]
-    for i in range(1,346):
-        sheet = f'A{i}'
-        if currentSheet[sheet].value == music_name:
-            
-            print(currentSheet[sheet].value, True)
-
-mpath = "C:\\Users\\MT1ShotYT\\Desktop\\music"
-
- 
-# file = open("C:\\Users\\MT1ShotYT\\Desktop\\Music-Categorizer\\Music-Categorizer\\DB\\hard-rock.csv", "r")
