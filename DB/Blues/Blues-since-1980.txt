@@ -1,106 +1,107 @@
-Ted Hawkins	1936	1995	Mississippi	Acoustic blues	[375]
-Steve James	1950		New York	Acoustic blues	[379]
-Keb Mo	1955		California	Acoustic blues	[383]
-Saffire – The Uppity Blues Women				Acoustic blues	[255]
-Cootie Stark	1926	2005	South Carolina	Acoustic blues	[408]
-Eric Bibb	1951		New York	Acoustic blues*	[350]
-Alvin Youngblood Hart	1963		California	Acoustic blues*	[365]
-Henry Qualls	1934		Texas	Acoustic blues*	[401]
-Andy Rodgers	1922	2004	Mississippi	Acoustic blues*	[403]
-Chico Banks	1962	2008	Illinois	Chicago blues	[344]
-L.V. Banks	1932	2011	Missouri	Chicago blues	[345]
-Barrelhouse Chuck	1958	2016	Ohio	Chicago blues	[346]
-Johnny B. Moore	1952		U.S.	Chicago blues	[391]
-Demetria Taylor	1973		Illinois	Chicago blues	[107]
-Maurice John Vaughn	1952		Illinois	Chicago blues	[412]
-Lil' Ed Williams	1955		U.S.	Chicago blues	[391]
-Terry Garland	1953		Tennessee	Country blues	[369]
-James Armstrong	1957		California	Electric blues	[341]
-Marcia Ball	1949		Texas	Electric blues	[343]
-Tab Benoit	1967		California	Electric blues	[140]
-Lurrie Bell	1958		Illinois	Electric blues	[139]
-Karen Carroll	1958		Illinois	Electric blues	[356]
-William Clarke	1951	1996	California	Electric blues	[357]
-Deborah Coleman	1956	2018	Virginia	Electric blues	[358]
-Robert Cray	1953		Georgia	Electric blues	[360]
-Debbie Davies	1952		California	Electric blues	[164]
-Guy Davis	1952		New York	Electric blues	[361]
-Ronnie Earl	1953		New York	Electric blues	[178]
-Tinsley Ellis	1957		Georgia	Electric blues	[364]
-Sue Foley	1968		Canada	Electric blues	[366]
-Robben Ford	1951		California	Electric blues	[366]
-Anson Funderburgh	1954		Texas	Electric blues	[188]
-Grady Gaines	1934	2021	Texas	Electric blues	[368]
-Otis Grand	1950		U.S.	Electric blues	[371]
-Guitar Slim, Jr.	1951		Louisiana	Electric blues	[372]
-Larry Hamilton	1951	2011	Texas	Electric blues	[374]
-Colin James	1964		Canada	Electric blues	[378]
-L.V. Johnson	1946		U.S.	Electric blues	[380]
-Little Jimmy King	1968	2002	Tennessee	Electric blues	[385]
-Lady Bianca	1953		Kansas	Electric blues	[386]
-Bob Margolin	1949		Massachusetts	Electric blues	[74]
-Larry McCray	1962		Arkansas	Electric blues	[389]
-Kenny Neal	1957		Louisiana	Electric blues	[392]
-Jay Owens	1947		Florida	Electric blues	[393]
-Lucky Peterson	1964		New York	Electric blues	[397]
-Gary Primich	1958		Illinois	Electric blues	[400]
-Johnny Rawls	1951		Mississippi	Electric blues	[347]
-Sherman Robertson	1948		Louisiana	Electric blues	[402]
-Duke Robillard	1948		Rhode Island	Electric blues	[402]
-Kenny Wayne Shepherd	1977		Louisiana	Electric blues	[406]
-Angela Strehli	1945		Texas	Electric blues	[353]
-Melvin Taylor	1959		Mississippi	Electric blues	[409]
-Susan Tedeschi	1970		Massachusetts	Electric blues	[410]
-Joe Louis Walker	1949		California	Electric blues	[413]
-Carl Weathersby	1953		Mississippi	Electric blues	[414]
-Valerie Wellington	1959	1991	Illinois	Electric blues	[325]
-Zora Young	1948		Mississippi	Electric blues	[415]
-Linsey Alexander	1942		Mississippi	Electric blues*	[340]
-Dexter Allen	1970		Mississippi	Electric blues*	[342]
-Terry "Harmonica" Bean	1961		Mississippi	Electric blues*	[347]
-Chris Beard	1957		New York	Electric blues*	[348]
-Adolphus Bell	1944		Alabama	Electric blues*	[349]
-Blind Mississippi Morris	1955		Mississippi	Electric blues*	[351]
-Skeeter Brandon	1948		Virginia	Electric blues*	[352]
-Ronnie Baker Brooks	1967		Illinois	Electric blues*	[353]
-Jimmy Burns	1943		Mississippi	Electric blues*	[354]
-Cedric Burnside	1978		Mississippi	Electric blues*	[342]
-Charles Caldwell	1943	2003	Mississippi	Electric blues*	[355]
-Shemekia Copeland	1979		New York	Electric blues*	[359]
-Boo Boo Davis	1943		Mississippi	Electric blues*	[354]
-Thornetta Davis	1963		Michigan	Electric blues*	[362]
-Little Arthur Duncan	1934	2008	Mississippi	Electric blues*	[363]
-Kirk Fletcher	1975		California	Electric blues*	[365]
-Rick Franklin	1941	2005	Virginia	Electric blues*	[367]
-Larry Garner	1952		Louisiana	Electric blues*	[370]
-Sandra Hall	1951		Georgia	Electric blues*	[373]
-Odessa Harris	1936	2003	Arkansas	Electric blues*	[226]
-Big Boy Henry	1921	2004	North Carolina	Electric blues*	[376]
-George Higgs	1930	2013	North Carolina	Electric blues*	[377]
-Fruteland Jackson	1953		Mississippi	Electric blues*	[377]
-Johnny "Yard Dog" Jones	1941		Illinois	Electric blues*	[381]
-Paul "Wine" Jones	1946	2005	Mississippi	Electric blues*	[340]
-Tutu Jones	1957		Texas	Electric blues*	[382]
-Harrison Kennedy	1942		Canada	Electric blues*	[348]
-Chris Thomas King	1962		Louisiana	Electric blues*	[384]
-Johnny Laws	1943		Illinois	Electric blues*	[387]
-Professor Eddie Lusk	1948	1992	Illinois	Electric blues*	[387]
-Johnnie Marshall	1961		Georgia	Electric blues*	[388]
-Clara McDaniel	1948		Michigan	Electric blues*	[390]
-Sista Monica Parker	1956		Indiana	Electric blues*	[394]
-Neal Pattman	1927	2005	Georgia	Electric blues*	[395]
-Asie Payton	1937	1997	Mississippi	Electric blues*	[396]
-Kelly Joe Phelps	1960		Washington	Electric blues*	[397]
-Lonnie Pitchford	1955		Kentucky	Electric blues*	[398]
-Gene "Birdlegg" Pittman	1947		Pennsylvania	Electric blues*	[399]
-Mighty Mo Rodgers	1942		Illinois	Electric blues*	[404]
-Roy Rogers	1950		California	Electric blues*	[292]
-Isaac Scott	1945	2001	Washington	Electric blues*	[405]
-Lonnie Shields	1956		Arkansas	Electric blues*	[407]
-Eddie Taylor Jr.	1972		Illinois	Electric blues*	[353]
-Otis Taylor	1948		Illinois	Electric blues*	[387]
-Lil' Dave Thompson	1969	2010	Mississippi	Electric blues*	[342]
-Pyeng Threadgill	1977		New York	Electric blues*	[359]
-Teeny Tucker	1958		Ohio	Electric blues*	[411]
-Mike Wheeler	1961		Illinois	Electric blues*	[353]
+Names
+Ted Hawkins	
+Steve James	
+Keb Mo	
+Saffire – The Uppity Blues Women		
+Cootie Stark	
+Eric Bibb	
+Alvin Youngblood Hart	
+Henry Qualls		
+Andy Rodgers	
+Chico Banks	
+L.V. Banks	
+Barrelhouse Chuck	
+Johnny B. Moore	
+Demetria Taylor	
+Maurice John Vaughn	
+Lil' Ed Williams	
+Terry Garland	
+James Armstrong	
+Marcia Ball	
+Tab Benoit	
+Lurrie Bell	
+Karen Carroll	
+William Clarke	
+Deborah Coleman	
+Robert Cray	
+Debbie Davies	
+Guy Davis	
+Ronnie Earl	
+Tinsley Ellis	
+Sue Foley	
+Robben Ford	
+Anson Funderburgh	
+Grady Gaines	
+Otis Grand	
+Guitar Slim, Jr.	
+Larry Hamilton	
+Colin James	
+L.V. Johnson	
+Little Jimmy King	
+Lady Bianca	
+Bob Margolin	
+Larry McCray	
+Kenny Neal	
+Jay Owens	
+Lucky Peterson	
+Gary Primich	
+Johnny Rawls	
+Sherman Robertson	
+Duke Robillard	
+Kenny Wayne Shepherd	
+Angela Strehli	
+Melvin Taylor	
+Susan Tedeschi	
+Joe Louis Walker	
+Carl Weathersby	
+Valerie Wellington	
+Zora Young	
+Linsey Alexander	
+Dexter Allen	
+Terry "Harmonica" Bean	
+Chris Beard	
+Adolphus Bell	
+Blind Mississippi Morris
+Skeeter Brandon		
+Ronnie Baker Brooks	
+Jimmy Burns	
+Cedric Burnside	
+Charles Caldwell	
+Shemekia Copeland	
+Boo Boo Davis	
+Thornetta Davis	
+Little Arthur Duncan	
+Kirk Fletcher	
+Rick Franklin	
+Larry Garner	
+Sandra Hall	
+Odessa Harris	
+Big Boy Henry	
+George Higgs	
+Fruteland Jackson	
+Johnny "Yard Dog" Jones	
+Paul "Wine" Jones	
+Tutu Jones	
+Harrison Kennedy	
+Chris Thomas King	
+Johnny Laws	
+Professor Eddie Lusk	
+Johnnie Marshall	
+Clara McDaniel			
+Sista Monica Parker	
+Neal Pattman	
+Asie Payton	
+Kelly Joe Phelps	
+Lonnie Pitchford	
+Gene "Birdlegg" Pittman	
+Mighty Mo Rodgers	
+Roy Rogers	
+Isaac Scott	
+Lonnie Shields	
+Eddie Taylor Jr.
+Otis Taylor	
+Lil' Dave Thompson	
+Pyeng Threadgill	
+Teeny Tucker
+Mike Wheeler	
 Albert White

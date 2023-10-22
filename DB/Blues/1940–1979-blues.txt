@@ -1,3 +1,4 @@
+Names
 John Henry Barbee	
 Roy Book Binder	
 Turner Foddrell	
@@ -10,222 +11,222 @@ Big Joe Duskin
 Big Maceo Merriweather	
 Boogie Woogie Red	
 The Aces			
-Luther Allison	1939	1997	Arkansas	Chicago blues	[132]
-Lefty Bates	1920	2007	Alabama	Chicago blues	[138]
-Carey Bell	1936	2007	Mississippi	Chicago blues	[139]
-Buster Benton	1932	1996	Arkansas	Chicago blues	[140]
-Eddie Boyd	1914	1994	Mississippi	Chicago blues	[147]
-George "Mojo" Buford	1929	2011	Mississippi	Chicago blues	[154]
-Aron Burton	1938	2016	Mississippi	Chicago blues	[157]
-James Cotton	1935	2017	Mississippi	Chicago blues	[163]
-Jimmy Dawkins	1936	2013	Mississippi	Chicago blues	[172]
-Willie Dixon	1915	1992	Mississippi	Chicago blues	[173]
-"Baby Face" Leroy Foster	1923	1958	Mississippi	Chicago blues	[183]
-Lacy Gibson	1936	2011	North Carolina	Chicago blues	[193]
-Good Rockin' Charles	1933	1989	Alabama	Chicago blues	[194]
-Henry Gray	1925	2020	Louisiana	Chicago blues	[195]
-Buddy Guy	1936		Louisiana	Chicago blues	[200]
-Shakey Jake Harris	1921	1990	Arkansas	Chicago blues	[205]
-Earl Hooker	1930	1970	Mississippi	Chicago blues	[212]
-Big Walter Horton	1917*	1981	Mississippi	Chicago blues	[214]
-Howlin' Wolf	1910	1976	Mississippi	Chicago blues	[215]
-J. B. Hutto	1926	1983	South Carolina	Chicago blues	[53]
-Elmore James	1918	1963	Mississippi	Chicago blues	[218]
-Jimmy Johnson	1928	2022	Mississippi	Chicago blues	[220]
-Luther "Georgia Boy" Johnson	1934	1976	Georgia	Chicago blues	[222]
-Moody Jones	1908	1988	Arkansas	Chicago blues	[225]
-Tail Dragger Jones	1940	2023	Arkansas	Chicago blues	[226]
-Kansas City Red	1926	1991	Mississippi	Chicago blues	[228]
-Eddie King	1938	2012	Alabama	Chicago blues	[234]
-Sammy Lawhorn	1935	1990	Arkansas	Chicago blues	[239]
-Lovie Lee	1908	1997	Mississippi	Chicago blues	[242]
-Lefty Dizz	1937	1993	Arkansas	Chicago blues	[243]
-Hip Linkchain	1936	1989	Mississippi	Chicago blues	[246]
-Little Walter	1930	1968	Louisiana	Chicago blues	[249]
-John Littlejohn	1931	1994	Mississippi	Chicago blues	[251]
-Magic Sam	1937	1969	Mississippi	Chicago blues	[255]
-Magic Slim	1937	2013	Mississippi	Chicago blues	[256]
-Earring George Mayweather	1928	1995	Alabama	Chicago blues	[262]
-Johnny B. Moore	1950		Mississippi	Chicago blues	[272]
-Muddy Waters	1913	1983	Mississippi	Chicago blues	[273]
-Matt "Guitar" Murphy	1929	2018	Mississippi	Chicago blues	[274]
-Robert Nighthawk	1909	1967	Arkansas	Chicago blues	[276]
-Andrew Odom	1936	1991	Louisiana	Chicago blues	[277]
-Odie Payne	1926	1989	Illinois	Chicago blues	[280]
-Pinetop Perkins	1913	2011	Mississippi	Chicago blues	[282]
-Snooky Pryor	1919*	2006	Mississippi	Chicago blues	[285]
-Jimmie Lee Robinson	1931	2002	Illinois	Chicago blues	[290]
-Jimmy Rogers	1924	1997	Mississippi	Chicago blues	[292]
-Otis Rush	1924	1997	Mississippi	Chicago blues	[293]
-Eddie Shaw	1937	2018	Mississippi	Chicago blues	[295]
-Johnny Shines	1915	1992	Tennessee	Chicago blues	[297]
-Barkin' Bill Smith	1928	2000	Mississippi	Chicago blues	[300]
-Little Smokey Smothers	1939	2010	Mississippi	Chicago blues	[304]
-Otis "Big Smokey" Smothers	1929	1993	Mississippi	Chicago blues	[303]
-Otis Spann	1930	1970	Mississippi	Chicago blues	[305]
-Eddie Taylor	1923	1985	Mississippi	Chicago blues	[310]
-Luther Tucker	1936	1993	Tennessee	Chicago blues	[317]
-Johnny "Big Moose" Walker	1927	1999	Mississippi	Chicago blues	[322]
-Junior Wells	1934	1998	Arkansas	Chicago blues	[326]
-Golden "Big" Wheeler	1929	1998	Georgia	Chicago blues	[327]
-Jody Williams	1935	2018	Alabama	Chicago blues	[330]
-Johnny Williams	1906	2006	Louisiana	Chicago blues	[331]
-Sonny Boy Williamson II	1909*	1965	Mississippi	Chicago blues	[333]
-Big John Wrencher	1924*	1977	Mississippi	Chicago blues	[337]
-Johnny "Man" Young	1918	1974	Mississippi	Chicago blues	[339]
-Etta Baker	1913	2006	North Carolina	Country blues	[135]
-Rory Block	1949		New Jersey	Country blues	[144]
-Archie Edwards	1918	1998	Virginia	Country blues	[35]
-Lightnin' Hopkins	1912	1982	Texas	Country blues	[214]
-Dan Pickett	1907	1967	Alabama	Country blues	[284]
-Sonny Terry	1911	1986	Georgia	Country blues	[314]
-Robert "Big Mojo" Elem	1931*	1997	Mississippi	Delta blues	[178]
-Eddie "Guitar" Burns	1928	2012	Mississippi	Detroit blues	[155]
-Calvin Frazier	1915	1972	Arkansas	Detroit blues	[185]
-John Lee Hooker	1917*	2001	Mississippi	Detroit blues	[213]
-Bobo Jenkins	1916	1984	Alabama	Detroit blues	[146]
-Baby Boy Warren	1919	1977	Louisiana	Detroit blues	[118]
-Willie D. Warren	1924	2000	Arkansas	Detroit blues	[324]
-Washboard Willie	1909	1991	Alabama	Detroit blues	[11]
-Woodrow Adams	1917	1988	Mississippi	Electric blues	[131]
-Lou Ann Barton	1954		Texas	Electric blues	[136]
-Johnnie Bassett	1935	2012	Florida	Electric blues	[137]
-Elvin Bishop	1942		California	Electric blues	[142]
-Mike Bloomfield	1943	1981	Illinois	Electric blues	[145]
-Lonnie Brooks	1933	2017	Louisiana	Electric blues	[148]
-Clarence "Gatemouth" Brown	1924*	2005	Louisiana	Electric blues	[150]
-Roy Buchanan	1939	1988	Alabama	Electric blues	[153]
-Paul Butterfield	1942	1987	Illinois	Electric blues	[22]
-Eric Clapton	1945		England	Electric blues	[159]
-Willie Cobbs	1932	2021	Arkansas	Electric blues	[160]
-Albert Collins	1932	1993	Texas	Electric blues	[161]
-Cyril Davies	1932	1964	England	Electric blues	[167]
-James "Thunderbird" Davis	1938	1991*	Alabama	Electric blues	[169]
-Maxwell Street Jimmy Davis	1925	1995	Mississippi	Electric blues	[171]
-Johnny Dyer	1938	2014	Mississippi	Electric blues	[176]
-Snooks Eaglin	1936	2009	Louisiana	Electric blues	[175]
-David "Honeyboy" Edwards	1915	2011	Mississippi	Electric blues	[177]
-Margie Evans	1939	2021	Louisiana	Electric blues	[179]
-Forest City Joe	1926	1960	Arkansas	Electric blues	[182]
-Guitar Pete Franklin	1928	1975	Indiana	Electric blues	[184]
-Rory Gallagher	1948	1995	Ireland	Electric blues	[190]
-Lee Gates	1937	2020	Mississippi	Electric blues	[192]
-L.C. Green	1921	1985	Mississippi	Electric blues	[196]
-Peter Green	1946	2020	England	Electric blues	[197]
-Guitar Nubbit	1923	1995	Florida	Electric blues	[198]
-Phil Guy	1940	2008	Louisiana	Electric blues	[201]
-John P. Hammond	1942		New York	Electric blues	[199]
-James Harman	1946	2021	Alabama	Electric blues	[202]
-Little Hatch	1921	2003	Mississippi	Electric blues	[196]
-Johnny Heartsman	1936	1996	Texas	Electric blues	[206]
-Smokey Hogg	1914	1960	Texas	Electric blues	[210]
-Luther Johnson (Guitar Junior)	1939	2022	Mississippi	Electric blues	[221]
-Floyd Jones	1917	1990*	Arkansas	Electric blues	[223]
-Jo Ann Kelly	1944	1990	England	Electric blues	[229]
-Albert King	1923	1992	Mississippi	Electric blues	[231]
-B.B. King	1925	2015	Mississippi	Electric blues	[232]
-Freddie King	1934	1976	Texas	Electric blues	[235]
-Little Freddie King	1940		Mississippi	Electric blues	[236]
-Alexis Korner	1928	1984	France	Electric blues	[238]
-Little Joe Blue	1934	1990	Mississippi	Electric blues	[247]
-Little Sonny	1932*		Alabama	Electric blues	[248]
-Louisiana Red	1932	2012	Alabama	Electric blues	[253]
-Willie Love	1906	1953	Mississippi	Electric blues	[254]
-Johnny Mars	1942	2011	South Carolina	Electric blues	[258]
-John Mayall	1933		England	Electric blues	[259]
-Delbert McClinton	1940		Texas	Electric blues	[263]
-Charlie Musselwhite	1944		Mississippi	Electric blues	[85]
-Sam Myers	1936	2006	Mississippi	Electric blues	[275]
-Rod Piazza	1947		California	Electric blues	[283]
-Bonnie Raitt	1949		California	Electric blues	[287]
-Jimmy Reed	1925	1976	Mississippi	Electric blues	[288]
-Sonny Rhodes	1940		Texas	Electric blues	[288]
-Fenton Robinson	1935	2007*	Mississippi	Electric blues	[289]
-Sonny Rodgers	1939	1990	Arkansas	Electric blues	[291]
-Roomful of Blues			Rhode Island	Electric blues	[288]
-Son Seals	1942	2004	Arkansas	Electric blues	[294]
-Roscoe Shelton	1931	2002	Tennessee	Electric blues	[296]
-George "Harmonica" Smith	1924	1983	Arkansas	Electric blues	[297]
-Arthur "Big Boy" Spires	1912	1990	Mississippi	Electric blues	[306]
-Arbee Stidham	1917	1988	Arkansas	Electric blues	[307]
-Hound Dog Taylor	1917*	1975	Mississippi	Electric blues	[311]
-Koko Taylor	1935*	2009	Tennessee	Electric blues	[312]
-Big Mama Thornton	1926	1984	Alabama	Electric blues	[316]
-Ike Turner	1931	2007	Mississippi	Electric blues	[318]
-Jimmie Vaughan	1951		Texas	Electric blues	[320]
-Stevie Ray Vaughan	1954	1990	Texas	Electric blues	[297]
-Mose Vinson	1917*	2002	Mississippi	Electric blues	[321]
-Boogie Bill Webb	1924	1990	Mississippi	Electric blues	[325]
-Alan Wilson	1943	1970	Massachusetts	Electric blues	[334]
-Johnny Winter	1944	2014	Texas	Electric blues	[335]
-R. L. Burnside	1926	2005	Mississippi	Hill country blues	[156]
-Junior Kimbrough	1930	1998	Mississippi	Hill country blues	[230]
-Roy Brown	1925*	1981	Louisiana	Jump blues	[151]
-Wynonie Harris	1915	1969	Nebraska	Jump blues	[204]
-Louis Jordan	1908	1975	Arkansas	Jump blues	[227]
-Roy Milton	1907	1983	Oklahoma	Jump blues	[270]
-Big Joe Turner	1911	1985	Missouri	Jump blues	[114]
-Jimmy Witherspoon	1920	1997	Arkansas	Jump blues	[336]
-Billy Wright	1918*	1991	Georgia	Jump blues	[338]
-Champion Jack Dupree	1910*	1992	Louisiana	Louisiana blues	[174]
-Clarence Garlow	1911	1986	Louisiana	Louisiana blues	[191]
-Guitar Slim	1926	1959	Louisiana	Louisiana blues	[199]
-Silas Hogan	1911	1994	Louisiana	Louisiana blues	[209]
-Lightnin' Slim	1913	1974	Missouri*	Louisiana blues	[245]
-Moses "Whispering" Smith	1932	1984	Mississippi	Louisiana blues	[301]
-Tabby Thomas	1929	2014	Louisiana	Louisiana blues	[315]
-Walter Brown	1917	1956	Texas	Memphis blues	[152]
-Junior Parker	1932	1971	Mississippi	Memphis blues	[279]
-Joe Willie Wilkins	1921	1979	Mississippi	Memphis blues	[329]
-Little Sonny Jones	1931	1989	Louisiana	New Orleans blues	[224]
-Earl King	1934	2003	Louisiana	New Orleans blues	[233]
-Carolina Slim	1923	1953	North Carolina	Piedmont blues	[158]
-John Dee Holeman	1929	2021	North Carolina	Piedmont blues	[211]
-John Jackson	1924	2002	Virginia	Piedmont blues	[217]
-Brownie McGhee	1915	1996	Tennessee	Piedmont blues	[265]
-Doug Quattlebaum	1927	1996	South Carolina	Piedmont blues	[286]
-Robert Curtis Smith	1930	2010	Mississippi	Piedmont blues	[302]
-Baby Tate	1916	1972	Georgia	Piedmont blues	[309]
-Kip Anderson	1938	2007	South Carolina	Soul blues	[134]
-Bobby Bland	1930	2013	Tennessee	Soul blues	[143]
-Z. Z. Hill	1935	1984	Texas	Soul blues	[208]
-Etta James	1938	2012	California	Soul blues	[219]
-Calvin Leavy	1941*	2010	Arkansas	Soul blues	[241]
-Bobby Rush	1933		Louisiana	Soul blues	[237]
-Titus Turner	1933	1984	Georgia	Soul blues	[319]
-Lavelle White	1929		Louisiana	Soul blues	[328]
-Lazy Lester	1933	2018	Louisiana	Swamp blues	[240]
-Lonesome Sundown	1928	2005*	Louisiana	Swamp blues	[252]
-Johnny Copeland	1937	1997	Louisiana	Texas blues	[162]
-Larry Davis	1936	1994	Arkansas*	Texas blues	[170]
-The Fabulous Thunderbirds			Texas	Texas blues	[180]
-Denny Freeman	1944	2021	Florida	Texas blues	[186]
-Harmonica Slim	1934	1984	Texas	Texas blues	[203]
-Long John Hunter	1931	2016	Louisiana	Texas blues	[216]
-Bob Kirkpatrick	1934		Louisiana	Texas blues	[237]
-Pete Mayes	1938	2008	Texas	Texas blues	[260]
-Luke "Long Gone" Miles	1925	1987	Louisiana	Texas blues	[269]
-Frankie Lee Sims	1917	1970	Louisiana	Texas blues	[298]
-Lester Williams	1920	1990	Texas	Texas blues	[332]
-U.P. Wilson	1934	2004	Louisiana	Texas blues	[237]
-Mose Allison	1927	2016	Mississippi	Urban blues	[133]
-Arthur "Big Boy" Crudup	1905	1974	Mississippi	Urban blues	[165]
-Blind John Davis	1913	1985	Mississippi	Urban blues	[168]
-Bob Gaddy	1924	1997	West Virginia	Urban blues	[189]
-J. B. Lenoir	1929	1967	Mississippi	Urban blues	[244]
-Memphis Slim	1915	1988	Tennessee	Urban blues	[266]
-Amos Milburn	1927	1980	Texas	Urban blues	[268]
-Gatemouth Moore	1913	2004	Kansas	Urban blues	[271]
-Sam Taylor	1916	1990	Tennessee	Urban blues	[313]
-Charles Brown	1922	1999	Texas	West Coast blues	[149]
-Pee Wee Crayton	1914	1985	Texas	West Coast blues	[164]
-Floyd Dixon	1929	2006	Texas	West Coast blues	[33]
-Johnny Fuller	1929	1985	Mississippi	West Coast blues	[187]
-Lowell Fulson	1921	1999	Oklahoma	West Coast blues	[188]
-Duke Henderson	1925	1973	Missouri	West Coast blues	[207]
-Little Willie Littlefield	1931	2013	Texas	West Coast blues	[250]
-J.J. Malone	1935	2004	Alabama	West Coast blues	[257]
-Percy Mayfield	1920	1984	Louisiana	West Coast blues	[261]
-Jimmy McCracklin	1921	2012	Texas	West Coast blues	[264]
-Johnny Otis	1921	2012	California	West Coast blues	[278]
+Luther Allison	
+Lefty Bates	
+Carey Bell	
+Buster Benton	
+Eddie Boyd	
+George "Mojo" Buford	
+Aron Burton	
+James Cotton	
+Jimmy Dawkins	
+Willie Dixon	
+"Baby Face" Leroy Foster	
+Lacy Gibson	
+Good Rockin' Charles	
+Henry Gray	
+Buddy Guy	
+Shakey Jake Harris	
+Earl Hooker	
+Big Walter Horton	
+Howlin' Wolf	
+J. B. Hutto	
+Elmore James	
+Jimmy Johnson	
+Luther "Georgia Boy" Johnson	
+Moody Jones	
+Tail Dragger Jones	
+Kansas City Red
+Eddie King	
+Sammy Lawhorn	
+Lovie Lee	
+Lefty Dizz	
+Hip Linkchain	
+Little Walter	
+John Littlejohn	
+Magic Sam	
+Magic Slim	
+Earring George Mayweather	
+Johnny B. Moore		
+Muddy Waters	
+Matt "Guitar" Murphy
+Robert Nighthawk	
+Andrew Odom
+Odie Payne	
+Pinetop Perkins	
+Snooky Pryor	
+Jimmie Lee Robinson	
+Jimmy Rogers	
+Otis Rush	
+Eddie Shaw	
+Johnny Shines	
+Barkin' Bill Smith	
+Little Smokey Smothers	
+Otis "Big Smokey" Smothers	
+Otis Spann	
+Eddie Taylor		
+Luther Tucker	
+Johnny "Big Moose" Walker	
+Junior Wells	
+Golden "Big" Wheeler	
+Jody Williams	
+Johnny Williams	
+Sonny Boy Williamson II
+Big John Wrencher	
+Johnny "Man" Young	
+Etta Baker	
+Rory Block	
+Archie Edwards	
+Lightnin' Hopkins	
+Dan Pickett	
+Sonny Terry	
+Robert "Big Mojo" Elem	
+Eddie "Guitar" Burns	
+Calvin Frazier	
+John Lee Hooker	
+Bobo Jenkins	
+Baby Boy Warren	
+Willie D. Warren	
+Washboard Willie	
+Woodrow Adams	
+Lou Ann Barton	
+Johnnie Bassett	
+Elvin Bishop	
+Mike Bloomfield	
+Lonnie Brooks	
+Clarence "Gatemouth" Brown	
+Roy Buchanan	
+Paul Butterfield	
+Eric Clapton	
+Willie Cobbs	
+Albert Collins	
+Cyril Davies	
+James "Thunderbird" Davis	
+Maxwell Street Jimmy Davis	
+Johnny Dyer	
+Snooks Eaglin	 
+David "Honeyboy" Edwards
+Margie Evans	
+Forest City Joe	
+Guitar Pete Franklin	
+Rory Gallagher	
+Lee Gates	
+L.C. Green	
+Peter Green	
+Guitar Nubbit	
+Phil Guy	
+John P. Hammond	
+James Harman	
+Little Hatch	
+Johnny Heartsman	
+Smokey Hogg	
+Luther Johnson (Guitar Junior)	
+Floyd Jones	
+Jo Ann Kelly	
+Albert King	
+B.B. King	
+Freddie King	
+Little Freddie King	
+Alexis Korner	
+Little Joe Blue	
+Little Sonny	
+Louisiana Red	
+Willie Love	
+Johnny Mars	
+John Mayall	
+Delbert McClinton	
+Charlie Musselwhite	
+Sam Myers	
+Rod Piazza	
+Bonnie Raitt	
+Jimmy Reed	
+Sonny Rhodes	
+Fenton Robinson	
+Sonny Rodgers	
+Roomful of Blues			
+Son Seals	
+Roscoe Shelton	
+George "Harmonica" Smith	
+Arthur "Big Boy" Spires	
+Arbee Stidham	
+Hound Dog Taylor	
+Koko Taylor	
+Big Mama Thornton	
+Ike Turner	
+Jimmie Vaughan	
+Stevie Ray Vaughan
+Mose Vinson	
+Boogie Bill Webb	
+Alan Wilson	
+Johnny Winter	
+R. L. Burnside	
+Junior Kimbrough	
+Roy Brown	
+Wynonie Harris	
+Louis Jordan	
+Roy Milton	
+Big Joe Turner	
+Jimmy Witherspoon	
+Billy Wright	
+Champion Jack Dupree	
+Clarence Garlow	
+Guitar Slim	
+Silas Hogan	
+Lightnin' Slim	
+Moses "Whispering" Smith	
+Tabby Thomas	
+Walter Brown	
+Junior Parker	
+Joe Willie Wilkins	
+Little Sonny Jones	
+Earl King	
+Carolina Slim	
+John Dee Holeman	
+John Jackson	
+Brownie McGhee	
+Doug Quattlebaum	
+Robert Curtis Smith	
+Baby Tate	
+Kip Anderson	
+Bobby Bland	
+Z. Z. Hill	
+Etta James	
+Calvin Leavy	
+Bobby Rush	
+Titus Turner	
+Lavelle White	
+Lazy Lester
+Lonesome Sundown	
+Johnny Copeland	
+Larry Davis	
+The Fabulous Thunderbirds
+Denny Freeman	
+Harmonica Slim	
+Long John Hunter	
+Bob Kirkpatrick	
+Pete Mayes	
+Luke "Long Gone" Miles	
+Frankie Lee Sims	
+Lester Williams	
+U.P. Wilson	
+Mose Allison	
+Arthur "Big Boy" Crudup
+Blind John Davis
+Bob Gaddy	
+J. B. Lenoir	
+Memphis Slim	
+Amos Milburn	
+Gatemouth Moore	
+Sam Taylor	
+Charles Brown	
+Pee Wee Crayton	
+Floyd Dixon	
+Johnny Fuller	
+Lowell Fulson	
+Duke Henderson	
+Little Willie Littlefield	
+J.J. Malone	
+Percy Mayfield	
+Jimmy McCracklin	
+Johnny Otis	
 T-Bone Walker
