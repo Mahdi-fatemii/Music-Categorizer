@@ -109,7 +109,7 @@ def DB_Music_Name_Check(db_file_name, artist_name):
         for i in range(1,346):
             sheet = f'A{i}'
             count += 1
-            if currentSheet[sheet].value == artist_name:
+            if artist_name in currentSheet[sheet].value:
                 return True
             elif count == 346:
                 return False
