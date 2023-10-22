@@ -106,7 +106,7 @@ def DB_Music_Name_Check(db_file_name, artist_name):
     for x in allSheetNames:
         currentSheet = theFile[x]
         count = 0
-        for i in range(1,346):
+        for i in range(1, currentSheet.max_row+1):
             sheet = f'A{i}'
             count += 1
             if artist_name in currentSheet[sheet].value:
@@ -125,6 +125,9 @@ def music_categorizer(folder_path, db_file_name, folder_name):
             musicfullname = music_fullname_finder(folder_path, artist_name=artname)
             folder_creation(path=folder_path, folder_name=folder_name)
             move_music_to_directory(folder_path, initfoldername= folder_name, music_name=musicfullname)        
+        elif existence == None:
+            pass
+            # print("No matching info found :(") 
         else:
             pass
     
