@@ -111,7 +111,7 @@ def DB_Music_Name_Check(db_file_name, artist_name):
             count += 1
             if artist_name in currentSheet[sheet].value:
                 return True
-            elif count == 346:
+            elif count == currentSheet.max_row+1:
                 return False
             else:
                 continue

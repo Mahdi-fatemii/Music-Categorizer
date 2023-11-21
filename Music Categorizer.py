@@ -1,6 +1,7 @@
 from Music_Categorizer_funcs import *
 
 folder_path = "C:\\Users\\MT1ShotYT\\Desktop\\music"
+
 while True:
     print(f'{"*"*50}\n1: Blues\n2: Country\n3: Folk\n4: Hip Hop\n5: Jazz\n6: Pop\n7: R&B\n8: Rock\n9: Metal\n10: Punk\n11: persian\n\n15: EXIT\n{"*"*50}') #12:\n13:\n14:
     check = input('please select a Genre:')
@@ -9,7 +10,9 @@ while True:
         music_categorizer(folder_path, db_file_name='All_Blues.xlsx', folder_name='All_Blues')
         continue
     elif check == '2':
-        pass
+           # country
+        music_categorizer(folder_path, db_file_name='country.xlsx', folder_name='country')
+        continue
     elif check == '3':
         pass
     elif check == '4':
