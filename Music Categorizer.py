@@ -6,7 +6,7 @@ while True:
     print(f'{"*"*50}\n1: Blues\n2: Country\n3: Folk\n4: Hip Hop\n5: Jazz\n6: Pop\n7: R&B\n8: Rock\n9: Metal\n10: Punk\n11: persian\n\n15: EXIT\n{"*"*50}') #12:\n13:\n14:
     check = input('please select a Genre:')
     if check == '1':
-     # Blues
+            # Blues
         music_categorizer(folder_path, db_file_name='All_Blues.xlsx', folder_name='All_Blues')
         continue
     elif check == '2':
@@ -18,17 +18,34 @@ while True:
     elif check == '4':
         pass
     elif check == '5':
-        pass
+        music_categorizer(folder_path, db_file_name='jazz.xlsx', folder_name='jazz')
+        continue
     elif check == '6':
-        pass
+        print(f'{"*"*50}\n1: Pop\n2: indie-pop\n3: BACK\n{"*"*50}')
+        check = input('please choose the option:')
+        if check == '1':
+            # pop
+            music_categorizer(folder_path, db_file_name='pop.xlsx', folder_name='pop')
+            continue
+        elif check == '2':  
+            # indie-pop  
+            music_categorizer(folder_path, db_file_name='indie-pop.xlsx', folder_name='indie-pop')
+            continue
+        elif check == '3':  
+            break     
     elif check == '7':
         pass
     elif check == '8':
+        print(f'{"*"*50}\n1: hard-rock\n2: soft-rock\n3: BACK\n{"*"*50}')#****************************************************************************
+        check = input('please choose the option:')
+        if check == '1':
            # hard-Rock
-        music_categorizer(folder_path, db_file_name='hard-rock.xlsx', folder_name='hard-rock')
+            music_categorizer(folder_path, db_file_name='hard-rock.xlsx', folder_name='hard-rock')
         continue
+    #*************************************************************************************************************************************************
     elif check == '9':
-        pass
+        music_categorizer(folder_path, db_file_name='heavy-metal.xlsx', folder_name='heavy-metal')
+        continue
     elif check == '10':
         pass
     elif check == '11':
@@ -46,7 +63,9 @@ while True:
         elif check == '3':  
             # Persian-old\classical  
             music_categorizer(folder_path, db_file_name='Iran-classical.xlsx', folder_name='Iran-classical')
-            continue        
+            continue       
+        elif check == '4':
+            break 
     elif check == '12':
         pass
     elif check == '13':
